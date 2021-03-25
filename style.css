@@ -1,0 +1,681 @@
+
+
+h1, h2, h3, nav li 
+{
+    font-family: 'Kiwi Maru', serif;
+}
+
+p 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bodystyle
+{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.logostyle
+{
+    height: 33px;
+}
+
+.carousel-inner img 
+{
+    width: 100%;
+    height: 450px;
+}
+
+.carousel-item
+{
+    position: relative;
+    z-index: 1;
+}
+
+.carousel-caption2
+{
+    position: absolute;
+    top: 31%;
+    left: 7%!important;
+    color: black;
+}
+
+.carousel-caption2 h3{
+    text-align: left;
+    color: black;
+}
+
+.carousel-caption2 p{
+    text-align: left;
+    color: black;
+}
+
+.carousel-caption2 button{
+    color: #fff;
+    background: #000;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: none;
+    position: absolute;
+    left: 0;
+}
+
+.carousel-caption
+{
+    position: absolute;
+    top: 23%;
+    left: 49%!important;
+    color: black;
+}
+
+.carousel-caption h3{
+    text-align: left;
+    color: black;
+}
+
+.carousel-caption p{
+    text-align: left;
+    color: black;
+}
+
+.carousel-caption button{
+    color: #fff;
+    background: #000;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: none;
+    position: absolute;
+    left: 0;
+}
+
+main
+{
+    margin: 40px 0;
+}
+
+.card
+{
+    border: none!important;
+    background: none;
+}
+
+.card-body
+{
+    padding: 5px 0!important;
+}
+
+.card-img-top
+{
+    height: 170px;
+}
+
+.card2
+{
+    border: none;
+}
+
+.forbu
+{
+    background-color: #0078d4;
+    border: 2px solid white;
+    border-radius: 2px;
+    width: 150px;
+}
+
+.headrow
+{
+    margin-left: -243px;
+}
+
+.msstyle
+{
+    width: 100%;
+    height: 450px;
+    background-image: url("./images/bg3.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 20px 0 40px 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 70px;
+}
+
+.customer
+{
+    width: 100%;
+    height: 450px;
+    background-image: url("images/customer.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0px 0 40px 0;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 70px;
+}
+
+.rightplace
+{
+    width: 100%;
+    height: 450px;
+    background-image: url("images/rightplace.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0px 0 40px 0;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 70px;
+}
+
+.mstore2
+{
+    margin-left: 450px;
+}
+
+.mstore2 h1{
+    font-weight: bold;
+}
+
+.mstore3 h1{
+    font-weight: bold;
+}
+
+.mstore3
+{
+    margin-left: 40px;
+}
+
+.mstore2 p{
+    margin-left: -28px;
+    font-weight: bold;
+}
+
+.mstore2 h6{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.mstore2 h6 a{
+    text-decoration: underline;
+}
+
+.for{
+    margin-top: 25px;
+    margin-left: -220px;
+}
+
+button{
+    color: #000;
+    background: #fff;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
+
+.btmcardsec
+{
+    margin: 50px 0;
+}
+
+.socialsec
+{
+    margin: 40px 0;
+    margin-bottom: 40px;
+}
+
+.fl{
+    padding-right: 14px;
+    padding-left: 12px;
+    color: #666666;
+    margin: 1px 0;
+}
+
+.fa-facebook-square
+{
+    color: #425daa;
+    padding-right: 14px;
+}
+
+.fa-linkedin-square
+{
+    color: #0177b5;
+    padding-right: 14px;
+}
+
+.fa-twitter-square
+{
+    color:#55acee;
+    padding-right: 14px;
+}
+
+footer{
+    background: #f2f2f2;
+    padding: 40px 0;
+}
+
+footer li{
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    color: #818181
+}
+
+.footerbtncredit
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.carousel-caption4
+{
+    position: absolute;
+    top: 33%;
+    left: 49%!important;
+    color: black;
+}
+
+.carousel-caption4 h3{
+    text-align: left;
+    color: black;
+}
+
+.carousel-caption4 p{
+    text-align: left;
+    color: black;
+}
+
+.carousel-caption4 button{
+    color: #fff;
+    background: #000;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: none;
+    position: absolute;
+    left: 0;
+}
+
+.carousel-caption3
+{
+    position: absolute;
+    top: 30%;
+    left: 6%!important;
+    color: white;
+}
+
+.carousel-caption3 h3{
+    text-align: left;
+    color: white;
+}
+
+.carousel-caption3 p{
+    text-align: left;
+    color: white;
+}
+
+.carousel-caption3 button{
+    color: black;
+    background: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: none;
+    position: absolute;
+    left: 0;
+}
+
+.ribbon
+{
+    background-color: #e6e6e6;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.content a{
+    color: black;
+    font-weight: bold;
+}
+
+.container
+{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+
+}
+
+.icons
+{
+    width: 27%;
+    margin-left: 60px;
+}
+
+.icons2
+{
+    width: 50%;
+}
+
+.wepot
+{
+    margin-left: 53px;
+    
+}
+
+.services
+{
+    display: flex;
+    margin-right: 40px;
+} 
+
+.covid
+{
+    color: black;
+    font-weight: bold;
+}
+
+.card-body a{
+    font-weight: bold;
+}
+
+.abc ul li a{
+    font-size: 13px;
+}
+
+.def li a{
+    font-size: 13px;
+}
+
+.def li{
+    font-size: 13px;
+}
+
+.xyz
+{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 50px;
+}
+
+.oneperson
+{
+    margin-top: 24px;
+    margin-left: 50px;
+}
+
+.appoint
+{
+    margin-top: 25px;
+    margin-left: 200px;
+}
+
+.compare
+{
+    margin-left: 30px;
+}
+
+.compare2
+{
+    margin-left: 10px;
+}
+
+.hmuhmu
+{
+    margin-left: 1120px;
+}
+
+.blm{
+    margin-left: 40px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.ght
+{
+    font-weight: bold;
+    font-size:20px;
+    margin-top:-3px;
+}
+
+.bubu
+{
+    margin-left: 15px;
+    
+}
+
+.miclogo
+{
+    margin-top: -5px;
+}
+
+.viva
+{
+    text-align: center;
+    background-color: #0078d4;
+    padding-top: 0.016px;
+    padding-bottom: 0.016px;
+}
+
+.viva p
+{
+    color:white;
+    font-weight: bold;
+}
+
+.viva p a{
+    color: white;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+
+.nav2
+{
+    margin-left: 48px;
+    margin-right:48px;
+}
+
+.lemo
+{
+    background: #f5f5f5;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.lemo2
+{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.alahu
+{
+    margin-left: 117px;
+}
+
+.hmehme
+{
+    margin-left: 140px;
+}
+
+.hmahma
+{
+    margin-left: 140px;
+}
+
+.vid365
+{
+    margin-left: 184px; 
+    margin-right: 184px; 
+    width: 980px;
+    height:550px;
+}
+
+.means
+{
+    font-weight: bold;
+    margin-left: 560px;
+}
+
+.dona
+{
+    margin-top: 30px;
+}
+
+.nine{
+    margin-left:40px;
+    margin-right: 40px;
+    margin-bottom: 160px;
+}
+
+.hmihmi
+{
+    margin-left: 60px;
+    margin-right: 53px;
+}
+
+.hhh:hover
+{
+    border-color: #e2e2e2;
+    border-width: 3px;
+}
+
+.hhh{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.bq4{
+    object-fit: 100%;
+    object-position: center;
+}
+
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.crnvr
+{
+    margin-top: 20px;
+}
+
+.nmap
+{
+    margin-top: 70px;
+    margin-bottom: -60px;;
+}
+
+.npr{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.apiimg
+{
+    object-fit: contain;
+    object-position: center;
+}
+
+@media screen and (max-width: 600px) {
+    .services{
+        margin-right: 0px;
+        display:block;
+    }
+
+    .content a{
+        margin-right: 98px;
+    }
+
+    .footerbtncredit
+    {
+        display: none;
+    }
+
+    .appoint
+    {
+        margin-top: 80px;
+        margin-left: 20px;
+    }
+
+    .deal p
+    {
+        display: none;
+    }
+
+    .oneperson{
+        margin-top: 80px;
+        margin-left: -25px;
+    }
+
+    .blm{
+        display: none;
+    }
+
+    .mstore2
+    {
+        margin-left: 0px;
+    }
+
+    .headrow{
+        margin-left: 20px;
+        
+    }
+
+    .alahu
+    {
+        margin-left: 145px;
+    }
+
+    .hmehme{
+        margin-left: 168px;
+    }
+
+    .hmahma{
+        margin-left: 168px;
+    }
+
+    .vid365
+    {
+        width:320px;
+        height:240px;
+        margin-left: 35px;
+        
+    }
+
+    .means{
+        margin-left: 106px;
+    }
+
+    .wepot
+{
+    margin-right: 190px;   
+}
+
+.hmuhmu
+{
+    margin-left: 185px;
+}
+}
+
