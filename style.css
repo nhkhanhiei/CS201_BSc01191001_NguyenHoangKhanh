@@ -598,6 +598,12 @@ footer a{
     object-position: center;
 }
 
+.services2{
+    display: grid;
+    gap: 1%;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
 @media screen and (max-width: 600px) {
     .services{
         margin-right: 0px;
